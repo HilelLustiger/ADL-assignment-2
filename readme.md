@@ -28,6 +28,7 @@ bash
 python Task1.py
 python Task2.py
 python Task3.py
+```
 
 ## 📦 Requirements
 
