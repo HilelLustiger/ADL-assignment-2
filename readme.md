@@ -29,6 +29,9 @@ python Task1.py
 python Task2.py
 python Task3.py
 
-Requires: numpy, matplotlib, sklearn
+## 📦 Requirements
 
-```
+- Python 3.x
+- `numpy`
+- `matplotlib`
+- `scikit-learn`
